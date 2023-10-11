@@ -2,7 +2,7 @@
 -----------------------------------
 
 🌍  I'm based in toronto
-<p> ✉️  You can contact me at [dhvanisoni135@gmail.com](mailto:dhvanisoni135@gmail.com) </p>
+<p> ✉️  You can contact me at dhvanisoni135@gmail.com </p>
 
 
 * 🚀 I'm a dedicated Data Science enthusiast with a strong passion for Machine Learning and Artificial Intelligence. My journey has been fueled by an unyielding curiosity to uncover insights within complex data sets and apply them to solve real-world business challenges through data-driven solutions.
