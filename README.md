@@ -6,6 +6,8 @@
 * ⚡ My passion for solving business problems through data and innovations led me to pursue a career in this field.
 
 🌍  I'm based in toronto
+<p> ✉️  You can contact me at [dhvanisoni135@gmail.com](mailto:dhvanisoni135@gmail.com)
+</p>
 ✉️  You can contact me at [dhvanisoni135@gmail.com](mailto:dhvanisoni135@gmail.com)
 
 Skills
