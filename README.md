@@ -1,4 +1,4 @@
-### Hi there 👋 I'm a Data Scientist & Data Analyst
+### Hi 👋 I'm a Data Scientist & Data Analyst
 -----------------------------------
 
 • I'm a dedicated Data Science enthusiast with a strong passion for Machine Learning and Artificial Intelligence. My journey has been fueled by an unyielding curiosity to uncover insights within complex data sets and apply them to solve real-world business challenges through data-driven solutions. 
