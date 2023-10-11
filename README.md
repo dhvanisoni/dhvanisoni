@@ -1,4 +1,4 @@
-### Hi 👋 I'm a Data Scientist & Data Analyst
+### Hi 👋 I'm a Data Scientist & Analyst
 -----------------------------------
 
 🌍  I'm based in toronto
