@@ -1,4 +1,4 @@
-### Hi 👋 I'm a Data Analyst & Scientist  
+### Hi 👋 I'm a Data Scientist & Analyst 
 -----------------------------------
 
 
