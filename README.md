@@ -7,8 +7,8 @@
 * I am poficient in Python, SQL, Excel,Power BI, Tableau and Machine Learning.
 * ⚡ My passion for solving business problems through data and innovations led me to pursue a career in this field.
 
-🌍  I'm based in toronto
-<p> ✉️  You can contact me at <h>dhvanisoni135@gmail.com</h> </p>
+* 🌍  I'm based in toronto
+* <p> ✉️  You can contact me at <h>dhvanisoni135@gmail.com</h> </p>
 
 
 ### Languages and tools:
