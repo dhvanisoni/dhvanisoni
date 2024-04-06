@@ -1,14 +1,18 @@
-### Hi 👋 I'm a Data Scientist & Analyst 
+### Hi 👋 Welcome to my GitHub! 
 -----------------------------------
 
 
-* 🚀 I'm a passionate Data Science professional with a strong background in Data Analysis and Machine Learning. My journey has been fueled by an unyielding curiosity to uncover insights within complex data sets and apply them to solve real-world business challenges through data-driven solutions.
-* 📊 My expertise lies in leveraging large and complex data to provide valuable insights and solve business problems through analytics and  problem-solving skills.
-* I am poficient in Python, SQL, Power BI, Tableau and Machine Learning.
-* ⚡ My passion for solving problems through data and innovations led me to pursue a career in this field.
-
+* 🚀 I'm a Data Science professional dedicated to transforming complex business problems into actionable insights and innovative solutions.
+* 📊 My expertise spans across Data Analysis, Machine Learning and AI, where I apply my knowledge to crack real-world business challenges, delivering data-driven solutions that drive progress.
+* Technical Skills: Python, SQL, Power BI, Tableau, Machine Learning, Artificial Intelligence and Cloud Computing
+* ⚡The world of Data and AI never stands still, and neither do I. I'm constantly exploring new tech to stay ahead.
+* 🌟 Looking Ahead: Every dataset tells a story, and every problem presents an opportunity for innovation. I am here to explore, solve, innovate, and share.
+* Feel free to visit my GitHub repos. I'm all about sharing my journey and learning from others. Let's connect, collaborate, and create something amazing together!
+  
 * 🌍  I'm based in toronto
 * <p> ✉️  You can contact me at <h>dhvanisoni135@gmail.com</h> </p>
+
+
 
 
 ### Languages and tools:
