@@ -9,10 +9,10 @@
   * **Data Visualization:** Power BI, Tableau
   * **Machine Learning & AI:** Developing and deploying models to solve intricate problems
   * **Cloud Computing:** Utilizing cloud platforms to enhance scalability and efficiency
-<br>
+
 <p>⚡The world of Data and AI never stands still, and neither do I. I'm constantly exploring new tech to stay ahead.<br>
-🌟 Looking Ahead: Every dataset tells a story, and every problem presents an opportunity for innovation. I am here to explore, solve, innovate, and share.<br>
-Feel free to visit my GitHub repos. I'm all about sharing my journey and learning from others. Let's connect, collaborate, and create something amazing together!</p>
+🌟 Looking Ahead: Every dataset tells a story, and every problem presents an opportunity for innovation. I am here to explore, solve, innovate, and share.<br> Feel free to visit my GitHub repos. I'm all about sharing my journey and learning from others. Let's connect, collaborate, and create something amazing together!</p>
+
 * 🌍 **Location:** Toronto, Canada
 * ✉️ **Contact:** <h>dhvanisoni135@gmail.com</h></p>
 
