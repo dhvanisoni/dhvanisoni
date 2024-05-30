@@ -5,17 +5,15 @@
 * 🚀 I'm a Data Science professional with a passion for solving complex business problems and turning them into innovative, data-driven solutions. 
 * 📊 My expertise spans Data Analytics, Machine Learning, and Artificial Intelligence, enabling me to build end-to-end data and AI applications that deliver data-driven solutions.
 ### Key Strengths
-  * * Programming: Python, SQL
+   * Programming: Python, SQL
   * Data Visualization: Power BI, Tableau
   * Machine Learning & AI: Developing and deploying models to solve intricate problems
   * Cloud Computing: Utilizing cloud platforms to enhance scalability and efficiency
 * ⚡The world of Data and AI never stands still, and neither do I. I'm constantly exploring new tech to stay ahead.
 * 🌟 Looking Ahead: Every dataset tells a story, and every problem presents an opportunity for innovation. I am here to explore, solve, innovate, and share.
 ### Let's Connect
-Feel free to visit my GitHub repos. I'm all about sharing my journey and learning from others. Let's connect, collaborate, and create something amazing together!
-🌍 **Location:** Toronto, Canada 
-✉️ **Contact:** <h>dhvanisoni135@gmail.com</h> 
-
+<p> Feel free to visit my GitHub repos. I'm all about sharing my journey and learning from others. Let's connect, collaborate, and create something amazing together!
+<br> 🌍 **Location:** Toronto, Canada <br> ✉️ **Contact:** <h>dhvanisoni135@gmail.com</h></p>
 
 
 
