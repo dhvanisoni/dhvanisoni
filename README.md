@@ -7,8 +7,8 @@
 ### 📊 My Expertise
   * **Programming:** Python, SQL
   * **Data Visualization:** Power BI, Tableau
-  * **Machine Learning & AI:** Developing and deploying models to solve intricate problems
-  * **Cloud Computing:** Utilizing cloud platforms to enhance scalability and efficiency
+  * **Machine Learning & AI:** Developing and deploying models to solve intricate problems (DL, NLP, Gen AI)
+  * **Cloud Computing:** Utilizing cloud platforms to enhance scalability and efficiency (AWS, Azure, GCP)
 
 <p>The world of Data and AI never stands still, and neither do I. I'm constantly exploring and learning new tech to stay ahead. Every dataset tells a story, and every problem presents an opportunity for innovation. I am here to explore, solve, innovate, and share. Feel free to visit my GitHub repos. I'm all about sharing my journey and learning from others. Let's connect, collaborate, and create something amazing together!</p>
 
