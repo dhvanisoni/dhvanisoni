@@ -13,7 +13,7 @@
 * 🌟 Looking Ahead: Every dataset tells a story, and every problem presents an opportunity for innovation. I am here to explore, solve, innovate, and share.
 ### Let's Connect
 <p> Feel free to visit my GitHub repos. I'm all about sharing my journey and learning from others. Let's connect, collaborate, and create something amazing together!
-<br> 🌍 **Location:** Toronto, Canada <br> ✉️ **Contact:** <h>dhvanisoni135@gmail.com</h></p>
+<br> 🌍 <strong>Location:</strong>strong> Toronto, Canada <br> ✉️ <strong>Contact:</strong> <h>dhvanisoni135@gmail.com</h></p>
 
 
 
