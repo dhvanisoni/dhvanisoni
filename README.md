@@ -1,7 +1,7 @@
 ### Hi 👋 Welcome to my GitHub! 
 -----------------------------------
 
-### 🚀 About Me
+### 👩‍💻 About Me
 <p> I'm a Data Science professional with a passion for solving complex business problems and turning them into innovative, data-driven solutions. My expertise spans Data Analytics, Machine Learning, and Artificial Intelligence, enabling me to build end-to-end data and AI applications that deliver data-driven solutions.</p>
 
 ### 📊 Key Strengths
