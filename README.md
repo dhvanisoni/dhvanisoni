@@ -2,10 +2,10 @@
 -----------------------------------
 
 ### 👩‍💻 About Me
-<p> I'm a Data Science professional with a passion for solving complex business problems and turning them into innovative, data-driven solutions. My expertise spans data analytics, machine learning, and artificial intelligence, enabling me to build end-to-end data and AI applications that deliver data-driven solutions.</p>
+<p> I'm a Data Scientist skilled in transforming complex business challenges into innovative, data-driven solutions. With expertise in data analytics, machine learning, and AI, I develop end-to-end applications that drive actionable insights and impactful results.</p>
 
 ### 📊 My Expertise
-  * **Programming:** Python, SQL
+  * **Programming:** Python, R, SQL
   * **Data Visualization:** Power BI, Tableau
   * **Machine Learning & AI:** Developing and deploying models to solve intricate problems (DL, NLP, Gen AI)
   * **Cloud Computing:** Utilizing cloud platforms to enhance scalability and efficiency (AWS, Azure, GCP)
