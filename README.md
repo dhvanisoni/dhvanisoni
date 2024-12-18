@@ -4,16 +4,13 @@
 ### 👩‍💻 About Me
 <p> I'm a passionate Data Scientist with a keen interest in transforming complex business challenges into innovative, data-driven solutions. With expertise in data analytics, machine learning, and AI, I develop end-to-end applications that drive actionable insights and impactful results.</p>
 
+<p>The world of Data and AI never stands still, and neither do I. I'm constantly exploring and learning new tech to stay ahead. Every dataset tells a story, and every problem presents an opportunity for innovation. I am here to explore, solve, innovate, and share. Feel free to visit my GitHub repos. I'm all about sharing my journey and learning from others. Let's connect, collaborate, and create something amazing together!</p>
+
 ### 📊 My Expertise
   * **Programming:** Python, R, SQL
   * **Data Visualization:** Power BI, Tableau
   * **Machine Learning & AI:** Developing and deploying models to solve intricate problems (DL, NLP, Gen AI)
   * **Cloud Computing:** Utilizing cloud platforms to enhance scalability and efficiency (AWS, Azure, GCP)
-
-<p>The world of Data and AI never stands still, and neither do I. I'm constantly exploring and learning new tech to stay ahead. Every dataset tells a story, and every problem presents an opportunity for innovation. I am here to explore, solve, innovate, and share. Feel free to visit my GitHub repos. I'm all about sharing my journey and learning from others. Let's connect, collaborate, and create something amazing together!</p>
-
-* 🌍 **Location:** Toronto, Canada
-* ✉️ **Contact:** <h>dhvanisoni135@gmail.com</h></p>
 
 ### Languages and tools:
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
@@ -30,5 +27,9 @@
                   
 
 ### Connect with me:
+
+- [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yourprofile)
+- [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=flat&logo=twitter&logoColor=white)](https://twitter.com/yourhandle)
+- [![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:your.email@example.com)
 
 <p align="left"> <a href="https://www.github.com/dhvanisoni" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /> </picture> </a> <a href="https://www.linkedin.com/in/dhvanisoni19" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /> </picture> </a> <a href="https://www.x.com/DhvaniSoni14" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /> </picture> </a></p>
