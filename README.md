@@ -15,6 +15,13 @@
 * 🌍 **Location:** Toronto, Canada
 * ✉️ **Contact:** <h>dhvanisoni135@gmail.com</h></p>
 
+## 📫 Let's Connect!
+
+- **LinkedIn**: [Your LinkedIn Profile](https://www.linkedin.com/in/yourprofile)
+- **Twitter**: [@yourhandle](https://twitter.com/yourhandle)
+- **Email**: your.email@example.com
+
+
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
 ![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=white)
