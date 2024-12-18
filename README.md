@@ -27,9 +27,12 @@
                   
 
 ### Let's Connect!
-
-
 <p align="left">
+ <a href="mailto:dhvanisoni135@gmail.com" target="_blank" rel="noreferrer">
+  <picture>
+    <img src="https://img.icons8.com/color/48/000000/gmail.png" alt="Gmail" width="32" height="32" />
+   </picture>
+  </a>
  <a href="https://www.linkedin.com/in/dhvanisoni19" target="_blank" rel="noreferrer"> 
   <picture> 
    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" /> 
@@ -38,7 +41,8 @@
   </picture> 
  </a>
  <a href="https://www.x.com/DhvaniSoni14" target="_blank" rel="noreferrer"> 
-  <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter-dark.svg" /> 
+  <picture> 
+   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter-dark.svg" /> 
    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" /> 
    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /> 
   </picture> 
