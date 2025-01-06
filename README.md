@@ -2,7 +2,7 @@
 -----------------------------------
 
 ### 👩‍💻 About Me
-<p> I'm a passionate Data Scientist with a keen interest in transforming complex business challenges into innovative, data-driven solutions. With expertise in data analytics, machine learning, and AI, I develop end-to-end applications that drive actionable insights and impactful results.</p>
+<p> I'm a Data Scientist with a keen interest in transforming complex business challenges into innovative, data-driven solutions. With expertise in data analytics, machine learning, and AI, I develop end-to-end applications that drive actionable insights and impactful results.</p>
 
 <p>I'm constantly exploring and learning new tech to stay ahead. Every dataset tells a story, and every problem presents an opportunity for innovation. I am here to explore, solve, innovate, and share. Feel free to visit my GitHub repos. Let's connect, collaborate, and create something amazing together!</p>
 
