@@ -8,7 +8,7 @@
 
 ### 📊 My Expertise
   * **Programming:** Python, R, SQL
-  * **Data Visualization:** Power BI, Tableau
+  * **Data Visualization:** Power BI, Tableau, MS Excel
   * **Machine Learning & AI:** Developing and deploying models to solve intricate problems (DL, NLP, Gen AI)
   * **Cloud Computing:** Utilizing cloud platforms to enhance scalability and efficiency (AWS, Azure, GCP)
 
